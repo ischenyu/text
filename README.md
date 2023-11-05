@@ -2,14 +2,14 @@
 基于python，调用tkinter、time
 如果你想把它生成exe可执行文件，请按照下面的步骤进行。
 
-#1、安装pycharm（如果你有可以跳过）
+## 1、安装pycharm（如果你有可以跳过）
 ```
 网址:https://www.jetbrains.com/pycharm/download/#section=windows
 ```
 
-#2、在pycharm中打开“terminal”
+## 2、在pycharm中打开“terminal”
 
-#3、输入：
+## 3、输入：
 
 ```
 pip install pyinstaller
@@ -18,7 +18,7 @@ pip install pyinstaller
 中国大陆用户使用豆瓣源： pip install pyinstaller -i https://pypi.douban.com/simple/
 ```
 
-#4、打包：
+## 4、打包：
 
 ```
 基本用法：
@@ -57,5 +57,5 @@ pyinstaller *.py -i **.ico
 pyinstaller -w main.py
 ```
 
-5、找到它：
+## 5、找到它：
 他总是被打包在项目下的“dist”文件夹。
