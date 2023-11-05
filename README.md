@@ -11,7 +11,7 @@
 
 ## 3、输入：
 
-```
+```bash
 pip install pyinstaller
 ```
 ```
