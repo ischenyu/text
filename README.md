@@ -3,9 +3,9 @@
 如果你想把它生成exe可执行文件，请按照下面的步骤进行。
 
 ## 1、安装pycharm（如果你有可以跳过）
-```
-网址:https://www.jetbrains.com/pycharm/download/#section=windows
-```
+
+[website](https://www.jetbrains.com/pycharm/download/#section=windows)
+
 
 ## 2、在pycharm中打开“terminal”
 
